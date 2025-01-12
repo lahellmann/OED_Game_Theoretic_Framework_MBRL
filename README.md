@@ -1,5 +1,5 @@
 # Optimizing Experiment Design (based on: A Game Theoretic Framework for Model Based Reinforcement Learning
-This repository is based on a group project in the course Optimizing Experimental Design at University of Osnabrück [[1]](#references) with reference to Rajeswaran et al.'s Game Theoretic Framework for Model Based Reinforcement Learning [[1]](#references) 
+This repository is based on a group project in the course Optimizing Experimental Design at University of Osnabrück [[1]](#references) with reference to Rajeswaran et al.'s Game Theoretic Framework for Model Based Reinforcement Learning [[2]](#references) 
 
 ## Overview
 
