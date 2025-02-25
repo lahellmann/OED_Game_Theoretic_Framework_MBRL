@@ -1,0 +1,13 @@
+skorch
+autora
+git+https://github.com/modAL-python/modAL.git
+autora[experimentalist-Falsification]
+autora[theorist-bms]
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+torch
+torchvision
+torchaudio
