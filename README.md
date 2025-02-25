@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```
 
 ## How to use this repository
-
+Look at [[1]](#references) and download the resources to your directory. Then change the dependencies in the .ipynb and the code should be executable.
 
 ## References
 <a name="references"></a>
