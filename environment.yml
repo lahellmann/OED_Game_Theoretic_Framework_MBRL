@@ -1,0 +1,22 @@
+name: venv
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pandas
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+      - skorch
+      - autora
+      - git+https://github.com/modAL-python/modAL.git
+      - "autora[experimentalist-Falsification]"
+      - "autora[theorist-bms]"
